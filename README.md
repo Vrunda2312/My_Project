@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Mathematics 
 - 🌱 I’m currently expanding on my Data Science Knowledge
 - 💞️ I’m looking to work on Data Science job
-- 📫 How to reach me @ shahvrunda2312@gmail.com
+- 📫 Reach me @ shahvrunda2312@gmail.com
 
 <!---
 Vrunda2312/Vrunda2312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
